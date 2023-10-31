@@ -36,3 +36,32 @@
 // });
 // console.log(fa)
 ////6
+// let arr = [1, 2, -3, 0, -4, 5, -6];
+// let art = 0
+// for (var i = 0; i <arr.length; i++)
+//     if (arr[i] < 0) {
+//         art++;
+//     }
+// console.log(art )
+////7
+// let arr =  [1,2,3,4,]
+// let atr =   [ 'a','b','c','d']
+// let cs = arr.concat(atr)
+// console.log(cs)
+////8
+// let arr = [2, 3, 4, 5]
+// let atr ='hello world';
+// let art = atr.split('')
+// let ffa = art.join(' " ')
+// let cs =arr.concat(ffa)
+// console.log(cs)
+////9
+// let arr =  [2, 3, 4, 5]
+// let art =  'hello world'
+// let atr = art.split('')
+// let cs = arr.concat(art,arr)
+// console.log(cs)
+////
+
+
+
